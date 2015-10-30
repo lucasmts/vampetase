@@ -1,17 +1,16 @@
-
 (function ($) {
 
     var self = {
         vampetaseImg: [
-            'http://g.glbimg.com/og/gs/gsat2/f/original/2012/11/01/vampeta_muvuca.jpg',
-            'http://i49.tinypic.com/3134qj6.jpg',
-            'http://e.imguol.com/esporte/futebol/2011/03/09/vampeta-toma-sorvete-enquanto-acompanha-uma-partida-de-futebol-1299716262839_1024x768.jpg',
-            'http://imguol.com/2012/09/25/vampeta-fala-sobre-ensaio-nu-para-a-g-magazine-1348607286095_956x500.jpg',
-            'http://f.i.uol.com.br/fotografia/2013/09/10/316315-970x600-1.jpeg',
-            'http://www.yaoheng.info/autos/Holland/PSV/Vampeta.jpg',
-            'http://sl5.content.torcedores.com/content/uploads/2014/09/vampeta-615x400.jpg',
-            'http://4.bp.blogspot.com/-8Tp2Bcd6DTE/TguiDKwVi7I/AAAAAAAACZc/hTLf52aB04s/s1600/vampeta.jpg',
-            'http://images.uncyc.org/pt/7/77/Ricardinho_Vampeta_gays.jpg',
+            'https://goo.gl/ACLQeF',
+            'https://goo.gl/nLhwGB',
+            'https://goo.gl/O2c6I6',
+            'https://goo.gl/8vQxEj',
+            'https://goo.gl/KV9iBx',
+            'https://goo.gl/R1EMq2',
+            'https://goo.gl/Om0zdl',
+            'https://goo.gl/bFb5VH',
+            'https://goo.gl/bcIXin',
         ],
         handleImages: function (lstImgs, time) {
             $.each($('img'), function (i, item) {
